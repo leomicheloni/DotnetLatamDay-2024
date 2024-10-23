@@ -3,8 +3,6 @@
  - [Requisitos](#requisitos)
  - [Índice de ejemplos](#índice-de-ejemplos)
  - [Preguntas de autoevaluación](#preguntas-de-autoevaluación)
- 
- - [Grabación Sesión 2](https://web.microsoftstream.com/video/801c98a8-83f7-4e23-bc40-92d0a24beda6)
 
 # Requisitos
 
