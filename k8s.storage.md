@@ -34,6 +34,11 @@ spec:
     emptyDir: {} #lifecycle tied to Pod
 ```
 
+``` powershell
+kubectl port-forward pod/nginx-alpine-volume 8088:80
+```
+
+
 #### HostPath
 
 ``` yml
